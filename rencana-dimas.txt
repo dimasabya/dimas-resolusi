@@ -3,3 +3,6 @@ RENCANA Javascript:
 - NOde Js
 - Vue Js
 - Server dan Database
+Rencana  PHP:
+- Code ignitor
+- Side Server
